@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BMD>
+	<maps id="map1">
+		<img height="1449" src="hikari_map2.png" width="1121" />
+		<data lat="34.66714591932744" lng="133.77931460738182"/>
+		<masks id="0" width="250" height="150" x="150" y="200" >
+		</masks>
+	</maps>
+</BMD>
